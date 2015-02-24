@@ -664,6 +664,7 @@ section#base_info {
     background-position: center;
     background-repeat: no-repeat;
     padding-top: 32px;
+    padding-bottom: 64px;
 }
 
 .overlay {
