@@ -351,6 +351,11 @@ section h3.section-subheading {
     text-transform: none;
 }
 
+.service-heading a {
+  text-decoration: none;
+  color: #333;
+}
+
 #private_events .portfolio-item {
     right: 0;
     margin: 0 0 15px;
