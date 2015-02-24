@@ -5,9 +5,9 @@ Agency theme based on [Agency bootstrap theme ](http://startbootstrap.com/templa
 
 # How to use
 
-###Portfolio 
+###Private Events 
 
-Portfolio projects are in '/_posts'
+Private Events projects are in '/_posts'
 
 Images are in '/img/portfolio'
 
