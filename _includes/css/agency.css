@@ -658,6 +658,25 @@ aside.clients img {
     margin: 50px auto;
 }
 
+section#base_info {
+    background-color: #222;
+    background-image: url({{ site.baseurl }}/img/map-image.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-top: 32px;
+}
+
+.overlay {
+   background-color:#222;
+   opacity:0.3;
+   position:relative;
+   width:100%;
+   height:300px; /* your iframe height */
+   top:300px;  /* your iframe height */
+   margin-top:-280px;  /* your iframe height */
+
+}
+
 section#contact {
     background-color: #222;
     background-image: url({{ site.baseurl }}/img/map-image.jpg);
